@@ -18,6 +18,13 @@ p {
 style {
     text-align: center;
 }
-img {
-    border:90px;margin:80px;
+#girl {
+    height: 300px;
+  border:20px solid navy;
+  border-right-color: white;
+  text-align:center;
+  background-color:white;
+  padding:0px 40px 0px 40px;
+  margin:auto;
+  border-top-color: navy;
 }
