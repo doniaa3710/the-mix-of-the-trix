@@ -6,25 +6,28 @@ td, th {
     text-align: center;
 }
 h1 {
-    font-family: Georgia; text-align: center; color: #003366; font-size: 450px;
+    font-family: Georgia; 
+    text-align: center;
+    color: #003366 ;
+    font-size: 80px;
 }
 h2 {
-    font-family: Trebuchet MS; text-align: center; text-decoration: underline; color: #008080; 
+    font-family: Trebuchet MS; 
+    text-align: center;
+    text-decoration: underline;
+    color: #008080 ; 
+    text-decoration: underline;
+    font-size:55px;
 }
 
 p {
-    font-family: Georgia; text-align: center; color: #800000; 
+    font-family: Georgia; 
+    text-align: center;
+    font-size:25px;
+    color: #800000;
 }
 style {
     text-align: center;
 }
-#girl {
-    height: 300px;
-  border:20px solid navy;
-  border-right-color: white;
-  text-align:center;
-  background-color:white;
-  padding:0px 40px 0px 40px;
-  margin:auto;
-  border-top-color: navy;
-}
+
+
