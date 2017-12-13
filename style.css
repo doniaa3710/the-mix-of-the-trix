@@ -1,3 +1,7 @@
 body {
     background-color: #ffe6ca ;
 }
+
+td, th {
+    text-align: center;
+}
