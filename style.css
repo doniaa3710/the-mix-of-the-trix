@@ -5,4 +5,19 @@ body {
 td, th {
     text-align: center;
 }
-h1 
+h1 {
+    font-family: Georgia; text-align: center; color: #003366; font-size: 450px;
+}
+h2 {
+    font-family: Trebuchet MS; text-align: center; text-decoration: underline; color: #008080; 
+}
+
+p {
+    font-family: Georgia; text-align: center; color: #800000; 
+}
+style {
+    text-align: center;
+}
+img {
+    border:90px;margin:80px;
+}
