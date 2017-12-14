@@ -2,8 +2,10 @@ body {
     background-color: #ffe6ca ;
 }
 
-td, th {
+td, th, table {
     text-align: center;
+    margin: auto;
+    background-color: white;
 }
 h1 {
     font-family: Georgia; 
@@ -29,5 +31,3 @@ p {
 style {
     text-align: center;
 }
-
-
