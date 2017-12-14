@@ -1,5 +1,5 @@
 body {
-    background-image: url(cityofheroes.jpg);
+    background-image: url(brooklyn-bridge.jpg);
     background-repeat: no-repeat;
       background-size: auto;
 
@@ -17,14 +17,14 @@ td, th, table {
 h1 {
     font-family: Georgia; 
     text-align: center;
-    color: #003366 ;
+    color: #fdb6b0 ;
     font-size: 80px;
 }
 h2 {
     font-family: Trebuchet MS; 
     text-align: center;
     text-decoration: underline;
-    color: #008080 ; 
+    color: #b1ecdc ; 
     text-decoration: underline;
     font-size:55px;
 }
@@ -33,7 +33,7 @@ p {
     font-family: Georgia; 
     text-align: center;
     font-size:25px;
-    color: ##003366;
+    color: #f1d7b9;
 }
 style {
     text-align: center;
