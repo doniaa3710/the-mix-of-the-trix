@@ -1,11 +1,18 @@
 body {
-    background-color: #ffe6ca ;
+    background-image: url(cityofheroes.jpg);
+    background-repeat: no-repeat;
+      background-size: auto;
+
 }
 
 td, th, table {
     text-align: center;
     margin: auto;
     background-color: white;
+    padding: 20px 40.5px 20px 40.5px;
+    border: 7px solid midnightblue
+    
+    
 }
 h1 {
     font-family: Georgia; 
@@ -31,3 +38,7 @@ p {
 style {
     text-align: center;
 }
+
+
+      
+    
