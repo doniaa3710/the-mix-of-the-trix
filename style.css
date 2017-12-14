@@ -6,6 +6,11 @@ td, th, table {
     text-align: center;
     margin: auto;
     background-color: white;
+     padding: 20px 40.5px 20px 40.5px;
+  background-color: white;
+ border: 7px solid midnightblue
+    
+    
 }
 h1 {
     font-family: Georgia; 
