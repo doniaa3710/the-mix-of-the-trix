@@ -11,7 +11,8 @@ td, th, table {
   margin: auto;
   background-color: white;
   padding: 20px 40.5px 20px 40.5px;
-  border: 7px solid midnightblue
+  border: 7px solid midnightblue;
+  float: inherit;
 
 
 }
@@ -40,4 +41,14 @@ style {
   text-align: center;
 }
 
+#trixies {
+  float: inherit;
+}
+form {
+  float: left
+    margin:center;
+}
 
+
+      
+    
