@@ -94,8 +94,7 @@ a {
 }
 
 video {
-  height: 600px;
-  width: 1800px;
+  position: relative;
   margin: 50 auto;
 }
 
